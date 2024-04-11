@@ -1,0 +1,23 @@
+body {
+    background-color: brown;
+}
+
+h1 {
+    color: white;
+}
+
+header p {
+    color: white;
+}
+
+article p {
+    background-color: cadetblue;
+}
+
+article h2 {
+    color: white;
+}
+
+footer p {
+    color: white;
+}

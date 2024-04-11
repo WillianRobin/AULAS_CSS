@@ -1,0 +1,30 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align:right
+}
+.vermelho{
+    color: red;
+}
+.azul{
+    color: blue;
+}
+.verde{
+    color: green;
+}
+p{
+    text-align: justify;
+}
+.a{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.b{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.c{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

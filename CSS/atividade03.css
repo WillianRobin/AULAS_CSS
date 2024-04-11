@@ -1,0 +1,12 @@
+header{
+    font-family: Arial, Helvetica, sans-serif ;
+    color: white;
+    background-color: black;
+    border-top: 2px red dashed;
+    border-left: 4px red solid;
+    border-right: 4px red solid;
+    border-bottom: 8px red solid ;
+}
+h1{
+    margin-bottom: 0;
+}

@@ -1,0 +1,17 @@
+*{
+    margin: 10px;
+}
+div{
+    border: 2px red solid;
+    background-color: slategray;
+    height: 400px;
+    width: 400px;
+}
+.a{
+    border: 5px green solid;
+    background-color: teal;
+    height: 400px;
+    width: 400px;
+    box-sizing: border-box;
+}
+/*box-sizing: border-box = limita o tamanho com base do px*/

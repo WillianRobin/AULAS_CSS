@@ -1,0 +1,17 @@
+h1{
+    border-top: 10px blue inset;
+    border-bottom: 10px pink dashed;
+    border-left: 10px orange double;
+    border-right: 10px orange double;
+}
+p{
+    border: 2px red dashed;
+    background-color: rgb(94, 0, 0);
+    color: white;
+}
+table{
+    border: 60px blue dashed;
+}
+th{
+    border: 5px red inset;
+}

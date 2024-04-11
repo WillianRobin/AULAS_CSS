@@ -1,0 +1,26 @@
+@charset "utf-8";
+*{
+    margin: 0;
+    padding: 0;
+}
+#aula04{
+    background-color: azure;
+    color: pink;
+    text-align: justify;
+}
+h1{
+    color: blue;
+    text-align: center;
+    text-decoration: line-through;
+}
+h2{
+    text-decoration-line: underline;
+    text-align: center;
+}
+p{
+    color: green;
+    text-align: justify;
+}
+article p.a{
+    color: black;
+}
