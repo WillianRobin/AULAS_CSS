@@ -1,0 +1,75 @@
+/*
+#ff0000
+#00ffff
+#8a2be2
+*/
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+:root {
+    --cor-primaria: #ff0000;
+    --cor-secundario: #00ffff;
+    --cor-terceira: pink;
+    --fonte-tamanho: 4em;
+
+}
+h1 {
+    color: var(--cor-primaria);
+    font-size: var(--fonte-tamanho);
+    margin-left: 200px;
+    padding-bottom: 50px;
+    padding-bottom: 8px;
+    padding-right: 0;
+}
+body{
+    background-color: rgb(53, 53, 53);
+
+}
+.loja{
+    float: right;
+    margin-left: 20px;
+    background-color: rgb(100, 0, 0) ;
+    margin-right: 200px;
+    line-height: 8vb;
+    color: red;
+    padding: 0;
+    text-decoration: none;
+}
+.trabalho{
+    float: right;
+    text-decoration: none;
+    line-height: 8vb;
+    color: red;
+    padding: 0;
+    background-color: rgb(100, 0, 0);
+}
+.forma{
+    background-color: rgb(100, 0, 0);
+}
+p {
+    color: var(--cor-secundario);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.p2 {
+    color: var(--cor-terceira);
+}
+.loja:hover{
+    color: black;
+    background-color: rgb(53, 53, 53);
+}
+.trabalho:hover{
+    color: black;
+    background-color: rgb(53, 53, 53);
+}
+.copy{
+    background-color: rgb(100, 0, 0);
+    color: red;
+    margin: 0;
+    padding: 20px;
+    margin-top: 800px;
+    background-attachment: fixed;
+}
