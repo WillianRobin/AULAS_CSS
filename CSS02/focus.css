@@ -1,4 +1,19 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
 input:focus {
     color: white;
     background-color: black;
+}
+.a1 :link{
+    color: red;
+}
+.a1 a:link{
+    color: rgb(128, 0, 0);
+}
+.a2 :link{
+    color: green;
+}
+.a3 :link{
+    color: orange;
 }
