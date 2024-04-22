@@ -1,9 +1,16 @@
                 C S S
 
-text-align: center; alinha ao meio
+text-align: center; alinha ao meio o texto
 text-align: justify; forma do texto
 
 .(nome) = todos como essa classe
 h1.(nome) = apenas o h1 com a classe
 #(nome) = todos com o 'id'
-nav a = para os links 
+nav a = para os links
+
+direction = muda a direção
+flex-wrap = ordem horizontal ou vertical
+align-items = alinhalinhamento horizontal
+justify-content = alinhalinhamento vertical
+border-radius = muda a borda
+order = ordem do item
