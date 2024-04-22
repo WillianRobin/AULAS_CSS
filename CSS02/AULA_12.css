@@ -1,0 +1,46 @@
+
+
+.container {
+    height: 100vh;
+    background-color: blue;
+    color: white;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: repeat(6, auto);
+    grid-area:
+        "header header header"
+        "main main article"
+        "main main article"
+        "div div img"
+        "div div img"
+        "footer footer footer"
+
+    ;
+
+}
+.Box1 {
+    grid-area: header;
+    background-color: red;
+}
+.Box2{
+    grid-area: main;
+    background-color: pink;
+}
+.Box3{
+    grid-area: article;
+    background-color: chartreuse;
+}
+.Box4{
+    grid-area: div;
+    background-color: darkblue;
+}
+.Box5{
+    grid-area: img;
+    background-color: violet;
+}
+.Box6{
+    grid-area: footer;
+    background-color: blueviolet;
+}
